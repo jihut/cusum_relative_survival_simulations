@@ -10,3 +10,5 @@ All the functions relevant for calculating the charts, simulating excess times f
 
 `devtools::install_github("https://github.com/jihut/CUSUMrelsurv")`
 `remotes::install_github("jihut/CUSUMrelsurv")`
+
+Note: Remember to set the root directory of this repository as working directory before running any of the files if the repository is not opened as a project in R! 
